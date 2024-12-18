@@ -3,7 +3,7 @@ hello git   444444444
 hello git    modify master
 hello git
 hello git
-hello git
+hello git hf test merge 
 hello git
 hello git
 hello git
